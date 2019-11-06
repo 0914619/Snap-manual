@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{installation}{}% 2
+\BOOKMARK [1][-]{section.3}{Snap basics}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Finding and installing snap}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Keeping track of your snaps}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Snap info}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Upgrading and downgrading your snap}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Removing a snap}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Snap channels}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Starting the snap}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{describing the snap}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Customisation}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Adding a part}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Adding another part}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Remove devmode}{}% 15
+\BOOKMARK [1][-]{section.7}{Push to the store}{}% 16
+\BOOKMARK [1][-]{section.8}{Crosscompile amd64 to armhf}{}% 17
+\BOOKMARK [2][-]{subsection.8.1}{Building on the raspberryPi}{section.8}% 18
+\BOOKMARK [2][-]{subsection.8.2}{Convert with linux desktop}{section.8}% 19
