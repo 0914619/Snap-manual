@@ -51,8 +51,13 @@
 \pagenumbering{arabic}%the western number system
 \section{introduction}\label{sec:intro}% reference
 This document is a manual on how to start making snap packages on ubuntu and how to publish it. The main reason for doing this is to run a selfmade snap on a RaspberryPi 3 with ubuntu core installed. Ubuntu core exclusively uses snaps. The reason for choosing for using core over another ubuntu flavour is because of the advantages for use in IoT. Snaps are individually installed and updated. In order for us to use ubuntu core we need an understanding in making and publishing snaps.\\ 
-
-
+\\
+Ubuntu core is a special kind of ubuntu made for IoT. The OS controls a lot of digital signs. robotics and gateways. It uses the same libraries, kernels and softwaresytem as normal ubuntu but on a smaller scale. It's kind of a strip down ubuntu and you don't need top of the line hardware to make things work with this. All of the packets and programs are delivered by snaps these snaps are easy to install. \\
+\\
+If you are getting into ubuntu core then you'll need to know about snaps, snapd and snapcraft. These 3 are the main objects to make your own programs in ubuntu core. Snaps are a package manager and software deployment system from Canonical for linux operating systems. The packages are called snaps and the tool for using them is called snapd. They work across a wide range of linux distributions and are used in IoT, cloud and Desktop computing. Snaps have no dependency on any app store and can be obtained from any source. Snaps can be used to create command line tools and background services.\\
+\\
+When you start marking snaps you need snapcraft. Snapcraft is a tool to package programs in the snap format. At the heart of the snapcraft build process is a file that's called "snapcraft.yaml". This file discribes the build dependencies an other requirements for your snaps, it intergrates remote repositories, extensions and runs custom scripts with CI systems. The latest versions (as of now Snapcraft 3.0) simplify the build processes. When the snapcraft.yaml file is correctly set up and build it with the snapcraft command it will create the snap from the .yaml file. Read more about building snaps in the snap manual.\\
+\\	
 
 \newpage%starts on the new page
 %

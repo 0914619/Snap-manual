@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.17)  29 OCT 2019 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.17)  11 NOV 2019 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -262,7 +262,27 @@ been already used, duplicate ignored
                    \relax 
 l.47 \cleardoublepage
                       %clears the rest of the page [1]
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
 
  []
 
@@ -270,21 +290,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 \newpage
+l.62 \newpage
              %starts on the new page [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 <step1.png, id=116, 583.17876pt x 39.14626pt>
 File: step1.png Graphic file (type png)
 <use step1.png>
-Package pdftex.def Info: step1.png  used on input line 96.
+Package pdftex.def Info: step1.png  used on input line 101.
 (pdftex.def)             Requested size: 361.34999pt x 24.25667pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 96--97
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 101--102
 [][] 
  []
 
@@ -292,20 +312,20 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 96--97
 <snapFind.png, id=124, 596.2275pt x 70.2625pt>
 File: snapFind.png Graphic file (type png)
 <use snapFind.png>
-Package pdftex.def Info: snapFind.png  used on input line 125.
+Package pdftex.def Info: snapFind.png  used on input line 130.
 (pdftex.def)             Requested size: 361.34999pt x 42.58344pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 125--126
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 130--131
 [][] 
  []
 
 <snapInstall.png, id=125, 472.76625pt x 26.0975pt>
 File: snapInstall.png Graphic file (type png)
 <use snapInstall.png>
-Package pdftex.def Info: snapInstall.png  used on input line 135.
+Package pdftex.def Info: snapInstall.png  used on input line 140.
 (pdftex.def)             Requested size: 361.34999pt x 19.94739pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 135--136
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 140--141
 [][] 
  []
 
@@ -315,20 +335,20 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 135--136
 <snapList.png, id=135, 619.31375pt x 183.68625pt>
 File: snapList.png Graphic file (type png)
 <use snapList.png>
-Package pdftex.def Info: snapList.png  used on input line 147.
+Package pdftex.def Info: snapList.png  used on input line 152.
 (pdftex.def)             Requested size: 361.34999pt x 107.17993pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 147--148
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 152--153
 [][] 
  []
 
 <snapChange.png, id=136, 771.88374pt x 153.57375pt>
 File: snapChange.png Graphic file (type png)
 <use snapChange.png>
-Package pdftex.def Info: snapChange.png  used on input line 156.
+Package pdftex.def Info: snapChange.png  used on input line 161.
 (pdftex.def)             Requested size: 361.34999pt x 71.89377pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 156--157
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 161--162
 [][] 
  []
 
@@ -338,20 +358,20 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 156--157
 <snapInfo.png, id=145, 556.0775pt x 297.11pt>
 File: snapInfo.png Graphic file (type png)
 <use snapInfo.png>
-Package pdftex.def Info: snapInfo.png  used on input line 168.
+Package pdftex.def Info: snapInfo.png  used on input line 173.
 (pdftex.def)             Requested size: 361.34999pt x 193.06934pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 168--169
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 173--174
 [][] 
  []
 
 <snapRefreshList.png, id=146, 380.42125pt x 31.11626pt>
 File: snapRefreshList.png Graphic file (type png)
 <use snapRefreshList.png>
-Package pdftex.def Info: snapRefreshList.png  used on input line 185.
+Package pdftex.def Info: snapRefreshList.png  used on input line 190.
 (pdftex.def)             Requested size: 361.34999pt x 29.5574pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 185--186
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 190--191
 [][] 
  []
 
@@ -361,10 +381,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 185--186
 <snapRemove.png, id=156, 424.58624pt x 85.31876pt>
 File: snapRemove.png Graphic file (type png)
 <use snapRemove.png>
-Package pdftex.def Info: snapRemove.png  used on input line 202.
+Package pdftex.def Info: snapRemove.png  used on input line 207.
 (pdftex.def)             Requested size: 361.34999pt x 72.61499pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 202--203
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 207--208
 [][] 
  []
 
@@ -374,10 +394,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 202--203
 <step2.png, id=163, 727.71875pt x 232.87pt>
 File: step2.png Graphic file (type png)
 <use step2.png>
-Package pdftex.def Info: step2.png  used on input line 255.
+Package pdftex.def Info: step2.png  used on input line 260.
 (pdftex.def)             Requested size: 361.34999pt x 115.63521pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 255--256
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 260--261
 [][] 
  []
 
@@ -387,10 +407,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 255--256
 <step17.png, id=171, 730.73pt x 382.42876pt>
 File: step17.png Graphic file (type png)
 <use step17.png>
-Package pdftex.def Info: step17.png  used on input line 273.
+Package pdftex.def Info: step17.png  used on input line 278.
 (pdftex.def)             Requested size: 361.34999pt x 189.11316pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 273--274
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 278--279
 [][] 
  []
 
@@ -402,10 +422,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 273--274
 <step5.png, id=182, 529.98pt x 237.88875pt>
 File: step5.png Graphic file (type png)
 <use step5.png>
-Package pdftex.def Info: step5.png  used on input line 317.
+Package pdftex.def Info: step5.png  used on input line 322.
 (pdftex.def)             Requested size: 361.34999pt x 162.19778pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 317--318
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 322--323
 [][] 
  []
 
@@ -415,20 +435,20 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 317--318
 <step4.png, id=190, 724.7075pt x 213.79875pt>
 File: step4.png Graphic file (type png)
 <use step4.png>
-Package pdftex.def Info: step4.png  used on input line 358.
+Package pdftex.def Info: step4.png  used on input line 363.
 (pdftex.def)             Requested size: 361.34999pt x 106.6055pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 358--359
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 363--364
 [][] 
  []
 
 <step6.png, id=191, 615.29875pt x 61.22874pt>
 File: step6.png Graphic file (type png)
 <use step6.png>
-Package pdftex.def Info: step6.png  used on input line 364.
+Package pdftex.def Info: step6.png  used on input line 369.
 (pdftex.def)             Requested size: 361.34999pt x 35.95833pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 364--365
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 369--370
 [][] 
  []
 
@@ -438,10 +458,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 364--365
 <step7.png, id=202, 839.135pt x 324.21124pt>
 File: step7.png Graphic file (type png)
 <use step7.png>
-Package pdftex.def Info: step7.png  used on input line 375.
+Package pdftex.def Info: step7.png  used on input line 380.
 (pdftex.def)             Requested size: 361.34999pt x 139.61095pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 375--376
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 380--381
 [][] 
  []
 
@@ -451,20 +471,20 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 375--376
 <step8.png, id=211, 563.10374pt x 318.18875pt>
 File: step8.png Graphic file (type png)
 <use step8.png>
-Package pdftex.def Info: step8.png  used on input line 385.
+Package pdftex.def Info: step8.png  used on input line 390.
 (pdftex.def)             Requested size: 361.34999pt x 204.18387pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 385--386
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 390--391
 [][] 
  []
 
 <step9.png, id=213, 849.1725pt x 294.09875pt>
 File: step9.png Graphic file (type png)
 <use step9.png>
-Package pdftex.def Info: step9.png  used on input line 403.
+Package pdftex.def Info: step9.png  used on input line 408.
 (pdftex.def)             Requested size: 361.34999pt x 125.14961pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 403--404
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 408--409
 [][] 
  []
 
@@ -474,10 +494,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 403--404
 <step18.png, id=222, 830.60312pt x 36.63687pt>
 File: step18.png Graphic file (type png)
 <use step18.png>
-Package pdftex.def Info: step18.png  used on input line 420.
+Package pdftex.def Info: step18.png  used on input line 425.
 (pdftex.def)             Requested size: 361.34999pt x 15.93857pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 420--421
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 425--426
 [][] 
  []
 
@@ -485,10 +505,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 420--421
 <step10.png, id=229, 599.23875pt x 415.5525pt>
 File: step10.png Graphic file (type png)
 <use step10.png>
-Package pdftex.def Info: step10.png  used on input line 441.
+Package pdftex.def Info: step10.png  used on input line 446.
 (pdftex.def)             Requested size: 361.34999pt x 250.5889pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 441--442
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 446--447
 [][] 
  []
 
@@ -498,10 +518,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 441--442
 <step13.png, id=236, 616.3025pt x 417.56pt>
 File: step13.png Graphic file (type png)
 <use step13.png>
-Package pdftex.def Info: step13.png  used on input line 483.
+Package pdftex.def Info: step13.png  used on input line 488.
 (pdftex.def)             Requested size: 361.34999pt x 244.8291pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 483--484
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 488--489
 [][] 
  []
 
@@ -512,10 +532,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 483--484
 <step12.png, id=243, 852.18375pt x 458.71375pt>
 File: step12.png Graphic file (type png)
 <use step12.png>
-Package pdftex.def Info: step12.png  used on input line 490.
+Package pdftex.def Info: step12.png  used on input line 495.
 (pdftex.def)             Requested size: 361.34999pt x 194.5133pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 490--491
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 495--496
 [][] 
  []
 
@@ -525,20 +545,20 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 490--491
 <step19.png, id=251, 677.53125pt x 480.79625pt>
 File: step19.png Graphic file (type png)
 <use step19.png>
-Package pdftex.def Info: step19.png  used on input line 507.
+Package pdftex.def Info: step19.png  used on input line 512.
 (pdftex.def)             Requested size: 361.34999pt x 256.43478pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 507--508
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 512--513
 [][] 
  []
 
 <step20.png, id=252, 759.83875pt x 683.55376pt>
 File: step20.png Graphic file (type png)
 <use step20.png>
-Package pdftex.def Info: step20.png  used on input line 514.
+Package pdftex.def Info: step20.png  used on input line 519.
 (pdftex.def)             Requested size: 361.34999pt x 325.07733pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 514--515
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 519--520
 [][] 
  []
 
@@ -548,10 +568,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 514--515
 <step15.png, id=265, 825.0825pt x 504.88625pt>
 File: step15.png Graphic file (type png)
 <use step15.png>
-Package pdftex.def Info: step15.png  used on input line 528.
+Package pdftex.def Info: step15.png  used on input line 533.
 (pdftex.def)             Requested size: 361.34999pt x 221.1183pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 528--529
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 533--534
 [][] 
  []
 
@@ -561,10 +581,10 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 528--529
 <step16.png, id=273, 863.225pt x 521.95pt>
 File: step16.png Graphic file (type png)
 <use step16.png>
-Package pdftex.def Info: step16.png  used on input line 557.
+Package pdftex.def Info: step16.png  used on input line 562.
 (pdftex.def)             Requested size: 361.34999pt x 218.48479pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 557--558
+Overfull \hbox (16.34999pt too wide) in paragraph at lines 562--563
 [][] 
  []
 
@@ -573,17 +593,17 @@ Overfull \hbox (16.34999pt too wide) in paragraph at lines 557--558
  <./step16.png>] [22
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 607.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 612.
  [23
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 607.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 612.
  (./snap for beginners.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 607.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 607.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 612.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 612.
 Package rerunfilecheck Info: File `"snap for beginners".out' has not changed.
 (rerunfilecheck)             Checksum: 04E5EBD91C960367C8D78A520BD0CFBF;1182.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 607.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 612.
  ) 
 Here is how much of TeX's memory you used:
  5321 strings out of 492616
@@ -592,7 +612,7 @@ Here is how much of TeX's memory you used:
  9136 multiletter control sequences out of 15000+600000
  5457 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,28p,531b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,28p,653b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -601,7 +621,7 @@ sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
 ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
 al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "snap for beginners.pdf" (25 pages, 2793070 bytes).
+Output written on "snap for beginners.pdf" (25 pages, 2794427 bytes).
 PDF statistics:
  339 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams
